@@ -1,0 +1,7 @@
+Distribution		Mean			Standard Deviation
+--------------------------------------------------------
+Uniform			4.91993		2.85087
+Binomial			4.97			1.59659
+Exponential		0.199295		0.203634
+Normal			4.88124		2.07179
+Geometric			1.524			1.9752

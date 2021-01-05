@@ -1,0 +1,10 @@
+Ratios and Recommendations for AAPL
+Closing Price on 4/11/2019: $198.95
+Average Annual Return: 28.306%
+Beta: 1.19147
+Volatility: 38.0487
+Sharpe Ratio: 0.880176
+C Sharpe Ratio: -0.00399099
+VAR: -0.0249622
+CVAR: -0.0354567
+Recommendation for AAPL is: Buy

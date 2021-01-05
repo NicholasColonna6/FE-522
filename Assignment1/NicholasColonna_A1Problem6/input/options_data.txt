@@ -1,0 +1,11 @@
+type	spt	str	rate	vol	ttm
+call	25	50	25	90	1
+put	25	50	25	90	1
+call	50	40	15	35	2
+put	50	40	15	35	2
+call	95	120	20	60	3
+put	95	120	20	60	3
+call	72	62	12	40	2
+put	72	62	12	40	2
+call	150	166	22	28	1
+put	150	166	22	28	1

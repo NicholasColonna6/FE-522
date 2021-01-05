@@ -1,0 +1,10 @@
+Nicholas Colonna
+
+The improvements I made to the swap function improve both execution speed and memory usage.
+
+My function has two pointers, A and B, that are holding the addresses of 2 vector<double>'s in memory.
+
+What my function does is creates a temporary vector<double> that is a copy of A. Next, I copy B in memory
+to where A originally was. Finally, I copy A back in memory to where B originally was.
+
+The result of this is swapping without copying the whole vector, only swapping using the address in memory.

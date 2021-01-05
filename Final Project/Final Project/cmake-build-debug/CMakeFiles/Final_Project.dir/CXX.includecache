@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/std_lib_facilities.h
+algorithm
+-
+array
+-
+cmath
+-
+cstdlib
+-
+forward_list
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+list
+-
+random
+-
+regex
+-
+sstream
+-
+stdexcept
+-
+string
+-
+unordered_map
+-
+vector
+-
+
+/cygdrive/c/Users/colon/Downloads/Final Project/src/main.cpp
+iostream
+-
+std_lib_facilities.h
+/cygdrive/c/Users/colon/Downloads/Final Project/src/std_lib_facilities.h
+sstream
+-
+fstream
+-
+typeinfo
+-
+

@@ -1,0 +1,3 @@
+Task 3:
+Time used by swapMethod01: 13.057s
+Time used by swapMethod02: 4.85654s

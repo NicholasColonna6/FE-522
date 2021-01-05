@@ -1,0 +1,10 @@
+Ratios and Recommendations for WFC
+Closing Price on 4/11/2019: $47.74
+Average Annual Return: 0.0297645
+Beta: 1.04837
+Volatility: 4.3074
+Sharpe Ratio: 0.0588433
+C Sharpe Ratio: -5.87242e-05
+VAR: -0.0203715
+CVAR: -0.0288562
+Recommendation for WFC is: Sell

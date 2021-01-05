@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -Wall -fexceptions -pedantic-errors -g -DDEBUG  -Wl,--enable-auto-import CMakeFiles/Final_Project.dir/src/main.cpp.o  -o Debug/Final_Project.exe -Wl,--out-implib,libFinal_Project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
